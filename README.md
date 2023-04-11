@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-### En formation Développeur Fullstack JS chez O'clock ... ⌛
+French JavaScript developer in work study contract at Appstud Toulouse !
+
+I currently work with react and TypeScript and i'm learning PHP and Flutter.
 
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=paulbinot&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
