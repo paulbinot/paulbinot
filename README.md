@@ -2,7 +2,11 @@
 
 French JavaScript developer working at Nereva France !
 
-I currently work with react, TypeScript & NextJS.
+🛩️ React
+🚀 Next JS
+🤓 TypeScript
+🪄 Framer motion
+✨ Styled components
 
 
 
