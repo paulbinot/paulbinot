@@ -6,7 +6,7 @@ French JavaScript developer working at Nereva France !
 🚀 Next JS\
 🤓 TypeScript\
 🪄 Framer motion\
-✨ Styled components\
+✨ Styled components
 
 
 
