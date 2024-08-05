@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-French JavaScript developer in work study contract at Appstud Toulouse !
+French JavaScript developer working at Nereva France !
 
-I currently work with react and TypeScript.
+I currently work with react, TypeScript & NextJS.
 
 
 
