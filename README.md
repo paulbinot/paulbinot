@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-French JavaScript developer working at Nereva France !
+French JavaScript frontend developer working at Nereva France !
 
 🛩️ React\
 🚀 Next JS\
